@@ -6,6 +6,9 @@
 ![Security](https://img.shields.io/badge/Focus-Passive%20Recon-black?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Educational-purple?style=for-the-badge)
 ![Website](https://img.shields.io/badge/Official-6ickZone.site-darkred?style=for-the-badge&logo=firefox)
+
+---
+
 **JoomSpy** is a lightweight, web-based reconnaissance tool built for **Passive Attack Surface Mapping** on Joomla CMS targets. It helps security researchers identify exposed endpoints, backup files, leaked configurations, and installed third-party extensions by analyzing HTTP response codes.
 
 This allows faster visibility into a Joomla asset’s external exposure before moving into deeper security analysis.
@@ -165,13 +168,9 @@ For educational and authorized security research purposes only.
 
 ---
 
-## 6ickZone
+## 6ickzone
 
 https://6ickzone.site
 ---
-
-## Maintained For
-
-Built for the security research community, bug hunters, and defensive analysts.
 
 **Maintained with coffee and curiosity.**
